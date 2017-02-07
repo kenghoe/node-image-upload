@@ -1,0 +1,9 @@
+# exclude everything except directory foo/bar
+/*
+/foo/*
+!package.json
+!.gitignore
+!public
+!app.js
+!views
+
